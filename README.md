@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Bhavya 
-- 👀 I’m interested in Artifical Intelligence and Machine Learning
+- 👋 Hi, I’m Bhavya Sai Cheruku
+- 👨‍ I'm currently student at GMR Institute Of Technology, pursuing my B.Tech Degree
+- 👀 I’m interested in Data Science and Deep Learning  
+- 🌱 I’m currently working on ... Machine Learning 
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 Reach me on "saibhavya49192007@gmail.com"
 
