@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Bhavya Sai Cheruku
 - 👨‍ I'm currently student at GMR Institute Of Technology, pursuing my B.Tech Degree
-- 👀 I’m interested in Data Science and Deep Learning  
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently working on ... Machine Learning 
-- 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 Reach me on "saibhavya49192007@gmail.com"
+- 📫 Reach me on "bhavyasaicheruku3@gmail.com"
 
 <!---
 Bhavya4919/Bhavya4919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
